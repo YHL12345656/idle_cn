@@ -89,4 +89,3 @@ else:
     else:
         print('''欢迎使用idle中文版！
         idle未汉化，输入idle_cn.en_to_cn()汉化。''')
-en_to_cn()
